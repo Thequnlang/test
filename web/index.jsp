@@ -11,7 +11,6 @@
     <title>Title</title>
 </head>
 <body>
-    <a scr="haojial.html">这是个链接 吧？</a><br>
     <a src="./haojial.html">12138<=我他妈直接    好=================家伙！>+-++-*</a>
 </body>
 </html>
